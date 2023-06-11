@@ -4,6 +4,8 @@ As there is a lot of misconceptions surrounding the infamous mode 7 of the Super
 
 ## The Adventures of Batman & Robin - Roller Coaster Level
 
+Video demo: https://youtu.be/S33upAovD14
+
 This level uses the mode 7 twice.
 
 ### Loop section
